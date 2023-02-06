@@ -3,7 +3,7 @@ const personnages = [
     nom: "VAULTERS",
     url: "img/vaulters-portrait.jpeg",
     urlAvatar: "img/vaulters-avatar.jpg",
-    desc: "VAULTERS  Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime consequuntur sequi excepturi repudiandae, quidem provident.",
+    desc: "VAULTERS  Lorem ipsum  Maxime consequuntur sequi excepturi repudiandae, quidem provident.",
     hp: 250,
     maxLife: 250,
     currentHp: 250,
